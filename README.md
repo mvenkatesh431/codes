@@ -1,2 +1,2 @@
 # codes
-Collections of Programs, I written for Fun.
+Collections of simple Programs, I written for Fun.
