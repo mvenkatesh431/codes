@@ -24,7 +24,7 @@ int main()
 
     int result;
     // we can also initialize directly.
-      int (*ptr[3]) (int, int) = {add, sub, mul};
+     // int (*ptr[3]) (int, int) = {add, sub, mul};
 
     int (*ptr[3]) (int, int);
     *ptr = add;
