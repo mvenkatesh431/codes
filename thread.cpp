@@ -2,6 +2,8 @@
 #include <thread>
 #define NUM 10
 
+//  g++ thread.cpp  -std=c++11 -pthread
+
 using namespace std;
 
 void * func ( int i) {
